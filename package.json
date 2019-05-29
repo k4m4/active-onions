@@ -1,0 +1,31 @@
+{
+  "name": "active-onions",
+  "version": "1.0.0",
+  "description": "Filter out inactive onion URLs from an array",
+  "license": "MIT",
+  "repository": "k4m4/active-onions",
+  "author": {
+    "name": "Nikolaos Kamarinakis",
+    "url": "https://nikolaskama.me",
+    "email": "nikolaskam@gmail.com"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "onion",
+    "onions",
+    "deep-web",
+    "links"
+  ],
+  "dependencies": {
+    "tor-request": "^3.1.0"
+  },
+  "devDependencies": {
+    "ava": "^1.2.1"
+  }
+}

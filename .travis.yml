@@ -1,0 +1,9 @@
+dist: trusty
+addons:
+  apt:
+    packages:
+    - tor
+language: node_js
+node_js:
+  - '6'
+  - '9'
