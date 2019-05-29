@@ -19,6 +19,8 @@ activeOnions(['https://abcdefghijklmnop.onion/', 'http://xmh57jrzrnw6insl.onion/
 //=> ['http://xmh57jrzrnw6insl.onion/', 'https://facebookcorewwwi.onion/']
 ```
 
+**Note**: *Ensure that a `Tor` client is running in the background*. You can run `apt install tor` on Linux and `brew install tor && tor` on macOS.
+
 
 ## API
 
