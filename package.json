@@ -1,6 +1,6 @@
 {
   "name": "active-onions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Filter out inactive onion URLs from an array",
   "license": "MIT",
   "repository": "k4m4/active-onions",
